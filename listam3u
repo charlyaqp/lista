@@ -1,0 +1,13 @@
+#EXTM3U
+
+#EXTINF:-1 title=,"TOP LATINO",CHARLY AQP 	Top Latino 
+https://5cefcbf58ba2e.streamlock.net/tltvweb/tltvweb.stream/chunklist_w1152531313.m3u8
+
+#EXTINF:-1 title=,"MUSIC TOP",CHARLY AQP 	Music Top
+http://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8
+
+#EXTINF:-1 title=,"ZONA PLAY",CHARLY AQP	Zona Play
+https://srv1.zcast.com.br/zonaplay/zonaplay/playlist.m3u8
+
+#EXTINF:-1 title=,"CADENAS D",CHARLY AQP	Cadenas D
+http://stmv3.questreaming.com/cadenasd/cadenasd/playlist.m3u8
